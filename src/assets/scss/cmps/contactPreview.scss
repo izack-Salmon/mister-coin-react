@@ -1,0 +1,30 @@
+.preview-container{
+    margin: auto;
+//     height: 80px;
+//     margin-bottom: 10px;
+    img{
+        height: 80px;
+        width: 80px;
+        margin: auto;
+    }
+}
+.preview-info{
+   
+    a{
+        display: flex;
+        flex-direction: column;
+        width: 120px;
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 20px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+        margin: 10px;
+        span{
+            font-size: 14px;
+        }
+    }
+//     background-color: rgb(75, 75, 75);
+//     width: 50%;
+//     margin: auto;
+//     border-radius: 30px;
+//     display: flex;
+//     align-items: center;
+//     justify-content: space-around;
+}

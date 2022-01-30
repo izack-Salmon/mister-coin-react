@@ -1,0 +1,36 @@
+// Externals
+
+// Setup
+@import "setup/variables";
+@import "setup/functions";
+@import "setup/mixins";
+
+// Basics
+@import "basics/typography";
+@import "basics/base";
+@import "basics/helpers";
+@import "basics/layout";
+@import "basics/modals";
+@import "basics/animations";
+
+// Pages
+@import "pages/homepage.scss";
+
+
+// Components
+@import "cmps/contactPreview.scss";
+@import "cmps/appHeader.scss";
+@import "cmps/chart.scss";
+@import "cmps/contactList.scss";
+
+
+
+
+.app-header {
+    background: #03A9F4;
+    .logo {
+        @include quotes
+    }
+    
+}
+

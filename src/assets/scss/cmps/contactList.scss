@@ -1,0 +1,9 @@
+.list-containter{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    // border: 1px solid black;
+}
+.add-contact{
+    margin-top: 10px;
+    // border: 1px solid;
+}

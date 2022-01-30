@@ -1,0 +1,27 @@
+.App-header{
+    background-color: #ffa800;
+    display: flex;
+    // width: 85%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+
+    .container{
+        margin: 0;
+    }
+    nav{
+        .my-active{
+            color: red
+        }
+        a{
+            padding: 10px;
+            margin-bottom: 5px;
+            
+        }
+        a:hover{
+            text-decoration: none;
+            color: red;
+        }
+    }
+}
