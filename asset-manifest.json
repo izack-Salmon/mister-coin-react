@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mister-coin-react/static/css/main.4a0158a3.css",
-    "main.js": "/mister-coin-react/static/js/main.f0191862.js",
+    "main.css": "/mister-coin-react/static/css/main.d6f25d40.css",
+    "main.js": "/mister-coin-react/static/js/main.ed867091.js",
     "static/js/787.e180b07e.chunk.js": "/mister-coin-react/static/js/787.e180b07e.chunk.js",
     "static/media/395434.jpg": "/mister-coin-react/static/media/395434.5ad13bca9f750782d5fd.jpg",
     "index.html": "/mister-coin-react/index.html",
-    "main.4a0158a3.css.map": "/mister-coin-react/static/css/main.4a0158a3.css.map",
-    "main.f0191862.js.map": "/mister-coin-react/static/js/main.f0191862.js.map",
+    "main.d6f25d40.css.map": "/mister-coin-react/static/css/main.d6f25d40.css.map",
+    "main.ed867091.js.map": "/mister-coin-react/static/js/main.ed867091.js.map",
     "787.e180b07e.chunk.js.map": "/mister-coin-react/static/js/787.e180b07e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a0158a3.css",
-    "static/js/main.f0191862.js"
+    "static/css/main.d6f25d40.css",
+    "static/js/main.ed867091.js"
   ]
 }
